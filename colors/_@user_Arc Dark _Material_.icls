@@ -4,7 +4,7 @@
     <property name="created">2021-06-08T21:23:14</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2022-03-22T16:51:45</property>
+    <property name="modified">2022-03-19T23:33:20</property>
     <property name="originalScheme">Arc Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -251,7 +251,7 @@
         <option name="FOREGROUND" value="47bc9b" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
     <option name="COFFEESCRIPT.JAVASCRIPT_CONTENT">
       <value />
     </option>
@@ -397,7 +397,6 @@
       <value>
         <option name="FOREGROUND" value="cda869" />
         <option name="EFFECT_COLOR" value="cda869" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -2922,6 +2921,7 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="47bc9b" />
