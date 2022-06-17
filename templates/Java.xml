@@ -1,5 +1,5 @@
 <templateSet group="Java">
-  <template name="test" value="@org.junit.jupiter.api.Test&#10;public void given_$EXPR1$_when_$EXPR2$_then_$EXPR3$() throws Exception { &#10;    &#10;    // given &#10;    $END$ &#10;    &#10;    // when &#10;    &#10;    &#10;    // then&#10;    &#10;}" description="jUnit test Template" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+  <template name="test" value="@org.junit.jupiter.api.Test&#10;public void given_$EXPR1$_when_$EXPR2$_then_$EXPR3$() throws Exception { &#10;    &#10;    // given &#10;    $END$ &#10;    &#10;    // when &#10;    &#10;    &#10;    // then&#10;    &#10;}" description="test template" toReformat="false" toShortenFQNames="true" useStaticImport="true">
     <variable name="EXPR1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="EXPR2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="EXPR3" expression="" defaultValue="" alwaysStopAt="true" />
