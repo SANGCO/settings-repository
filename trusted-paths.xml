@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/mcs" />
         <option value="$USER_HOME$/dev/example/security" />
+        <option value="$USER_HOME$/dev/example/book" />
       </list>
     </option>
   </component>
