@@ -4,6 +4,7 @@
       <artifact id="H2" name="H2" use="true" version="1.4.200" />
     </driver>
     <driver id="mysql.8">
+      <url-template name="new" template="jdbc:mysql://jdbc:mysql://prod-flynt.csjwxr5yszmb.ap-southeast-1.rds.amazonaws.com:3306:3306/flynt_prod" />
       <artifact />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
     </driver>
