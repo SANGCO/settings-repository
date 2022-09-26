@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/dev/example/book" />
         <option value="$USER_HOME$/dev/example/online_lecture/other" />
+        <option value="$USER_HOME$/dev/example" />
       </list>
     </option>
   </component>
