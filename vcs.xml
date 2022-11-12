@@ -6,6 +6,7 @@
         <option value="Default.Root" />
         <option value="Default.Subject" />
         <option value="Default.Author" />
+        <option value="Space.CommitStatus" />
         <option value="Default.Date" />
       </list>
     </option>
